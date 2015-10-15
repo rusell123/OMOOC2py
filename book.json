@@ -6,7 +6,7 @@
     "plugins": ["disqus"],
     "pluginsConfig": {
         "disqus": {
-            "shortName": "omooc2py"
+            "shortName": "rusell123omooc"
         }
     }  
  }
