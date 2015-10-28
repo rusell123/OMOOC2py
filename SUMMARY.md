@@ -3,7 +3,8 @@
 * [Introduction](README.md)
 * [教学反转](0MOOC/README.md)
    * 2.2.开始编程
-    * 2.2.1.Ubuntu中配置python
+       * 2.2.1.Ubuntu中配置python
+   * Ubuntu上python环境设置
 * [基础旋进](1sTry/README.md)
 * [迭代作品](2nDev/README.md)
 * [人生首秀](3rDemo/README.md)
