@@ -1,2 +1,3 @@
-# 安装pip
+## 安装pip
 
+sudo apt-get install python-pip
